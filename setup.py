@@ -25,7 +25,7 @@ setup(
         name='fin_dash',
         description="Financial Dashboard for cash flow management",
         long_description=README,
-        long_description_content_type='text/markdown',
+        long_description_content_type='text/x-rst',
         author="Amihai Offenbacher",
         author_email="amihaio@gmail.com",
         packages=find_packages(),
